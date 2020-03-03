@@ -1,0 +1,46 @@
+#ajax-jobs-progressbar-container {
+    border: 1px solid #ccc;
+    height: 25px;
+    position: relative;
+}
+
+.ajax-jobs-progressbar-caption {
+    position: absolute;
+    left: 46%;
+    line-height: 20px;
+}
+
+.ajax-jobs-progressbar-value {
+    display: block;
+    height: 25px;
+    position: relative;
+    width: 1%;
+}
+
+.ajax-jobs-caption-light {
+    color: #fff;
+}
+
+.ajaxjobs-jobs-container {
+    margin: 10px auto;
+    overflow: auto;
+    max-height: 50vh;
+}
+
+.ajax-jobs-job-title,
+.ajaxjobs-job-message,
+.ajaxjobs-job-status {
+    display: inline-block;
+}
+
+.ajax-jobs-job-title {
+    margin-left: 10px;
+}
+
+.ajaxjobs-job-message {
+    float: right;
+}
+
+.ajax-jobs-messages {
+    display: none;
+}
