@@ -1,8 +1,5 @@
-# Ajax-Jobs By Webkul
+# Ajax-Jobs
 Ever need to looping to perform actions on multiple data. Ajax-jobs make your task easy.
-
-[![Webkul](https://store.webkul.com/skin/frontend/webkul/store/images/webkul-store-logo.png)](https://webkul.com)
-
 
 Ajax-Jobs is jQuery plugin to performs batch jobs by ajax.
 
