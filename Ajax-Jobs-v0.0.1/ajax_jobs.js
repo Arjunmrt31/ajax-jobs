@@ -1,3 +1,10 @@
+/**
+* @version: 0.0.1
+* @author: Arjun Singh
+* @copyright: Webkul Software https://webkul.com. All rights reserved.
+* @license: Licensed under the GPL 2.0
+*/
+
 'use strict';
 
 import $ from 'jquery';
